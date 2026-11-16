@@ -38,6 +38,7 @@ package nu.firetech.android.joystick;
 
 import android.content.Context;
 import android.content.res.TypedArray;
+import nu.firetech.android.remote100.R;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
